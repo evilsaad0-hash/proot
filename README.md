@@ -23,7 +23,7 @@ This shell script is designed to automate the installation of an Ubuntu environm
 2. Run the installer script:
 
     ```sh
-    ./install.sh
+    ./root.sh
     ```
     or
     ```sh
