@@ -23,11 +23,11 @@ This shell script is designed to automate the installation of an Ubuntu environm
 2. Run the installer script:
 
     ```sh
-    ./root.sh
+    ./root-maker.sh
     ```
     or
     ```sh
-    bash root.sh
+    bash root-maker.sh
     ```
 
 ## Supported Architectures
